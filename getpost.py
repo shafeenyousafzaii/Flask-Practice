@@ -1,5 +1,4 @@
 from flask import Flask,render_template,request
-from socket import gethostname
 app = Flask(__name__)
 
 @app.route('/')
