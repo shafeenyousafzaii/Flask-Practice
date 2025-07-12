@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0a71bbb-74f7-4ec4-af79-920f5153f707" name="Changes" comment="Some minor changes">
-      <change afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a0a71bbb-74f7-4ec4-af79-920f5153f707" name="Changes" comment="Some minor changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +119,7 @@
       <workItem from="1752099619710" duration="7773000" />
       <workItem from="1752160600891" duration="1533000" />
       <workItem from="1752186454606" duration="3654000" />
-      <workItem from="1752194949834" duration="1961000" />
+      <workItem from="1752194949834" duration="2026000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the project , commits">
       <option name="closed" value="true" />
@@ -150,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752160635140</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Some minor changes">
+      <option name="closed" value="true" />
+      <created>1752196920731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752196920731</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
